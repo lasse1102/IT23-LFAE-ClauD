@@ -1,6 +1,0 @@
-RD01, Gast = Morten
-PC06 = Jakob
-PC14 = Bosse
-PC15 = Sebastian
-PC16 = Benjamin
-PC17 = Pascal

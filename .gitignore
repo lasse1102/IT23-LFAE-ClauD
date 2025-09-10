@@ -1,0 +1,46 @@
+# Ausschluss von Ordnern die mit "00 -" beginnen
+00 - */
+
+# Ausschluss von Dateien die mit "Noten" beginnen
+Noten*
+
+# Zusätzliche sinnvolle Ausschlüsse für ein Bildungsrepository
+# Temporäre Dateien
+*.tmp
+*.temp
+~$*
+
+# Office-Dateien (temporäre Versionen)
+~*.docx
+~*.xlsx
+~*.pptx
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE-spezifische Dateien
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+
+# Persönliche Notizen (falls vorhanden)
+*persönlich*
+*privat*

@@ -1,0 +1,90 @@
+Aufgabe 4.1
+	public struct Kunde
+	{
+		public int KundenID;
+		public string Name;
+		public string EMail;
+	}
+
+Aufgabe 4.2
+	public List<Kunde> Kundenliste = new List<Kunde>();
+
+Aufgabe 4.3
+	public List<Kunde> KundeHinzufuegen(List<Kunde> Kundenliste, int KundenID, string Name, string EMail)
+	{
+		bool istNeu = true;
+		
+		foreach (Kunde K in Kundenliste)
+		{
+			if (K.KundenID == KundenID)
+			{
+				Console.Write("Kunde bereits vorhanden");
+				istNeu = false;
+				break;
+			}
+			else { /* Skip */ }
+		}
+		
+		if (istNeu)
+		{
+			Kunde neuerKunde = new Kunde();
+			neuerKunde.KundenID = KundenID;
+			neuerKunde.Name = Name;
+			neuerKunde.EMail = EMail;
+			
+			Kundenliste.Add(neuerKunde);
+		}
+		else { /* Kunde existiert bereits */ }
+		
+		return Kundeliste;
+	}
+
+Aufgabe 4.4
+	public Kunde? KundeSuchen (List<Kunde> Kundenliste, int KundenID)
+	{
+		Kunde gefundenerKunde;
+		
+		foreach (Kunde K in Kundenliste)
+		{
+			if (K.KundenID == KundenID)
+			{
+				gefundenerKunde = K;
+			}
+			else { /* Continue */ }
+		}
+		
+		if (gefundenerKunde == null)
+		{
+			Console.WriteLine("Kein Kunde mit KundenID '{0}' wurde gefunden.", KundenID);
+		}
+		
+		return gefundenerKunde;
+	}
+
+Aufgabe 4.5
+	public List<Kunde> KundeEntfernen (List<Kunde> Kundenliste, int KundenID)
+	{
+		bool kundeGefunden = false;
+		foreach (Kunde K in Kundenliste)
+		{
+			if (K.KundenID == KundenID)
+			{
+				List.Remove(K);
+			}
+			else { /* Continue */ }
+		}
+		
+		if (kundeGefunden == false)
+		{
+			Console.WriteLine("Es wurde kein Kunde mit der KundenID '{0}' zum löschen gefunden.", KundenID);
+		}
+		else
+		{
+			Console.WriteLine("Kunde mit der KundenID '{0}' wurde erfolgreich gelöscht.", KundenID);
+		}
+		
+		return Kundenliste;
+	}
+
+Aufgabe 4.6
+	Besonders gut geeignet wäre ein Dictionary.

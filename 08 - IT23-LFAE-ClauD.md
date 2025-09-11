@@ -64,6 +64,8 @@
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD).excalidraw.svg]]
 	- [[07 - Entity Relationship Modell und Diagramm (ERM und ERD)]]
 	- [[08 - Übung SQL und JOIN]]
+	- [[08 - Weinhandel Herbst2023 DB.db]]
+	- [[08 - Weinhandel Herbst2023.sql]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw]]
 	- [[08a - JOIN Übung aus IHK Herbst-2023.excalidraw.svg]]
 	- [[08a - Lösungen SQL und JOIN]]

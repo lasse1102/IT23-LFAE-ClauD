@@ -42,6 +42,7 @@
 	- [[00 - Übersicht über Themen LF12.excalidraw]]
 	- [[00 - Übersicht über Themen LF12]]
 	- [[01 - Projektmanagement.excalidraw]]
+	- [[01 - Projektmanagement.excalidraw.svg]]
 	- [[01 - Projektmanagement]]
 	- [[02 - Kundenaufträge im Rahmen von Projekten planen und bearbeiten.excalidraw]]
 	- [[02 - Kundenaufträge im Rahmen von Projekten planen und bearbeiten]]
@@ -127,6 +128,7 @@
 		- [[Pasted Image 20250402210801_261.png]]
 		- [[Pasted image 20250409223406.png]]
 	- **[[Blockchain]]**
+	- [[Bsp_Dokumentation.pdf]]
 	- **[[Container]]**
 	- [[Praktische Software-Entwicklung unter Verwendung von LLM (am Beispiel von Anthropic Claude)]]
 	- [[Themenspeicher zu Lernendes]]

@@ -21,12 +21,12 @@ teile zusammen! ^fDYeCl1G
 (S. 260f.) ^RxjHqA3l
 
 ## Embedded Files
-21f854148c3706b50471d277494e8137f7e182e2: [[80 - Alte Kurse/03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230420235417_049.jpg]]
-5db2022882170b5a8d835f52bab2f26a880c191d: [[80 - Alte Kurse/03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230420235417_068.jpg]]
-7f71c86fec075c4d2055e8a9ae7b76e7e905edc5: [[80 - Alte Kurse/03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230420235432_058.jpg]]
-50d4069c85bf1a461216617d0839baf019ecf678: [[80 - Alte Kurse/03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230420235457_563.jpg]]
-914bd11fd38c39f96448be6ee0a68805d6210216: [[80 - Alte Kurse/03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230420235502_059.jpg]]
-5ec4bc641dff00a14967377de9998d7a0721b6e1: [[80 - Alte Kurse/03 - IT21-LFAE-ClauD/Anhänge/Pasted Image 20230420235522_064.jpg]]
+21f854148c3706b50471d277494e8137f7e182e2: [[08 - IT23-LFAE-ClauD/Anhänge/Pasted Image 20230420235417_049.jpg]]
+5db2022882170b5a8d835f52bab2f26a880c191d: [[08 - IT23-LFAE-ClauD/Anhänge/Pasted Image 20230420235417_068.jpg]]
+7f71c86fec075c4d2055e8a9ae7b76e7e905edc5: [[08 - IT23-LFAE-ClauD/Anhänge/Pasted Image 20230420235432_058.jpg]]
+50d4069c85bf1a461216617d0839baf019ecf678: [[08 - IT23-LFAE-ClauD/Anhänge/Pasted Image 20230420235457_563.jpg]]
+914bd11fd38c39f96448be6ee0a68805d6210216: [[08 - IT23-LFAE-ClauD/Anhänge/Pasted Image 20230420235502_059.jpg]]
+5ec4bc641dff00a14967377de9998d7a0721b6e1: [[08 - IT23-LFAE-ClauD/Anhänge/Pasted Image 20230420235522_064.jpg]]
 
 %%
 ## Drawing

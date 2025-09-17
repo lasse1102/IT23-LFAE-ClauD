@@ -46,7 +46,7 @@
 						 *Bestelldaten: Bestellnummer, KundenID, ArtikelID, Menge*
 						 *Artikel: ArtikelID, ArtikelName*
 
-##### Andere Beispielaufteilung
+##### Beispielaufteilung
 Tabelle Bestellungen:
 ```
 Bestellnummer | Kunde | KundenAdresse

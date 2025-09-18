@@ -41,6 +41,7 @@
 - **[[LF12]]**
 	- [[00 - Übersicht über Themen LF12.excalidraw]]
 	- [[00 - Übersicht über Themen LF12]]
+	- [[01 - Bit-zu-Byte-Umrechnungen usw.]]
 	- [[01 - Projektmanagement.excalidraw]]
 	- [[01 - Projektmanagement.excalidraw.svg]]
 	- [[01 - Projektmanagement]]

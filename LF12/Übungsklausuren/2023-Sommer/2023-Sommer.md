@@ -4,7 +4,6 @@
 %% Begin Waypoint %%
 - [[01 Anwendungsentwickler.pdf]]
 - [[01 Anwendungsentwicklung (Notizen).excalidraw]]
-- [[01 Anwendungsentwicklung (Notizen).excalidraw.svg]]
 - [[01_Anwendungsentwicklung_Loesung.pdf]]
 - [[02 Anwendungsentwickler.pdf]]
 - [[02 Anwendungsentwicklung Loesung.pdf]]

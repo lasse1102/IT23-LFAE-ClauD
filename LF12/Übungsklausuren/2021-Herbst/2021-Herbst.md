@@ -13,6 +13,5 @@
 - [[GA2_Aufgaben.pdf]]
 - [[GA2_Loesungen.pdf]]
 - [[Teil 2, Handlungsschritt 5.excalidraw]]
-- [[Teil 2, Handlungsschritt 5.excalidraw.svg]]
 
 %% End Waypoint %%

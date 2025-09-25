@@ -6,7 +6,6 @@
 - [[00 - Fallbeschreibung TechConnect GmbH]]
 - [[01 - Container & Kubernets]]
 - [[01 - Docker.excalidraw]]
-- [[01 - Docker.excalidraw.svg]]
 - [[01a - Anforderungsanalyse Vorlage (Lösung)]]
 - [[01a - Anforderungsanalyse Vorlage]]
 - [[01b - Docker Cheat Sheet]]

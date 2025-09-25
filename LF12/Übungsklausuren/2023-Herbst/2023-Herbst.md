@@ -3,7 +3,6 @@
 ---
 %% Begin Waypoint %%
 - [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw]]
-- [[2024-09-26 Lösung Aufgabe 3 2023-Herbst Anw T1.excalidraw.svg]]
 - [[Analogaufgabe AE-T2-Aufg2 Musterlösung]]
 - [[Analogaufgabe AE-T2-Aufg2]]
 - **Anhänge**

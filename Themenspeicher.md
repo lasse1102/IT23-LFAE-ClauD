@@ -7,4 +7,3 @@
 * Software-Architektur, Algorithmen & Datenstrukturen - design pattern
 	* pipes, filters, micro services etc.
 * Verschlüsselung
-* 

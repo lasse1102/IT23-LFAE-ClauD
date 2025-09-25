@@ -27,6 +27,7 @@
 	- [[Pasted Image 20230517153924_163.jpg]]
 	- [[Pasted Image 20240722121149_455.jpg]]
 	- [[Unbenannt]]
+- [[Beispiel Workflow für GitHub Actions für Sync mit Parent Repo.yml]]
 - [[Dockerfile]]
 - **[[Excel-Übung]]**
 	- [[Baecker_FILTER_TEILERGEBNIS.xls]]

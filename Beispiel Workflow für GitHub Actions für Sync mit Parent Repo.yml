@@ -1,0 +1,41 @@
+# .github/workflows/sync-fork.yml
+name: Sync Fork
+
+on:
+  # Täglich um 6:00 UTC prüfen
+  schedule:
+    - cron: '0 6 * * *'
+  # Manuell ausführbar
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Sync Fork
+      run: |
+        # Repository Info abrufen
+        UPSTREAM_REPO=$(gh api repos/${{ github.repository }} --jq '.parent.full_name')
+        
+        if [ -n "$UPSTREAM_REPO" ]; then
+          echo "Syncing with upstream repository: $UPSTREAM_REPO"
+          
+          # GitHub CLI verwenden um Fork zu syncen
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/${{ github.repository }}/merge-upstream \
+            -f branch='main'
+            
+          echo "Fork successfully synced!"
+        else
+          echo "This repository is not a fork."
+        fi
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,5 +1,4 @@
 # Arbeitsblatt: JSON und XML - Wiederholung für Anwendungsentwickler
-**Zielgruppe:** Auszubildende Fachinformatiker für Anwendungsentwicklung, 3. Ausbildungsjahr  
 **Thema:** Datenformate JSON und XML im Vergleich  
 **Art:** Wiederholung und Vertiefung  
 

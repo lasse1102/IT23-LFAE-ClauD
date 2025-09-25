@@ -1,5 +1,5 @@
 * SQL & Datenbanken
-* Excel - Tabellenkalkulation
+* ~~Excel - Tabellenkalkulation~~
 * ~~Bit-Umrechnung -> Byte usw.~~
 * Netzwerktechniken, Server, Speicher, Cloud, IPv4, IPv6 - RAID
 * Dateiformate zum Datenaustausch (JSON, XML)
